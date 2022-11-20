@@ -1,4 +1,4 @@
-package demo01;
+package demo02;
 
 public class GitTest {
     public static void main(String[] args) {
